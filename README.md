@@ -16,3 +16,6 @@ original WorldEdit. So basically you get the same commands, same permissions
 and the same experience. In addition to that if WorldEdit team releases a new 
 feature, fixes a bug all you need to do is update WorldEdit and AWE will do its
 job as usual.
+
+For API (including Maven) go to:
+  https://github.com/SBPrime/AsyncWorldEdit-API
