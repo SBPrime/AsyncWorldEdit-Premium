@@ -17,5 +17,8 @@ and the same experience. In addition to that if WorldEdit team releases a new
 feature, fixes a bug all you need to do is update WorldEdit and AWE will do its
 job as usual.
 
-For API (including Maven) go to:
-  https://github.com/SBPrime/AsyncWorldEdit-API
+For API go to:
+  https://github.com/SBPrime/AsyncWorldEdit/tree/master/AsyncWorldEdit-API
+  
+For API Maven go to:
+  https://github.com/SBPrime/AsyncWorldEdit/tree/maven-artifact
